@@ -1,0 +1,22 @@
+/*Simple Taillight controller using Attiny84 and Neopixel Strip
+
+*/
+#include <Adafruit_NeoPixel.h>
+
+
+void setup() {
+  // put your setup code here, to run once:
+int NUMPIXEL = 16
+int DRL = 
+int LTurn
+int RTurn
+int Brake
+int Hazards
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+
